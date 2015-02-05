@@ -26,7 +26,7 @@ import (
 )
 
 const (
-	maxNumOfConcPullTasks = 4
+	maxNumOfConcPullTasks = 1
 )
 
 // Pull from remote if remote path exists and in a god context. If path is a
