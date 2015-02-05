@@ -1,6 +1,6 @@
 # drive
 
-[![Build Status](https://travis-ci.org/odeke-em/drive.png?branch=master)](https://travis-ci.org/odeke-em/drive)
+[![Build Status](https://travis-ci.org/ceshine/drive.png?branch=master)](https://travis-ci.org/odeke-em/drive)
 
 `drive` is a tiny program to pull or push [Google Drive](https://drive.google.com) files.
 
