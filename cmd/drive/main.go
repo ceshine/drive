@@ -25,8 +25,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/odeke-em/drive/config"
-	"github.com/odeke-em/drive/src"
+	"github.com/ceshine/drive/config"
+	"github.com/ceshine/drive/src"
 	"github.com/rakyll/command"
 )
 
